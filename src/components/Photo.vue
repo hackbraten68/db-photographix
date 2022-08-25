@@ -12,7 +12,7 @@ export default {
 
 <style>
     .body__profile__photo img {
-        border-radius: 25%;
+        border-radius: 20%;
         box-shadow: rgba(124, 137, 139, 0.12) 0px 2px 4px 0px, rgba(124, 137, 139, 0.32) 0px 2px 16px 0px;
         width: 200px;
        

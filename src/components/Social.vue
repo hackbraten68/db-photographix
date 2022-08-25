@@ -1,8 +1,8 @@
 <template>
       <div class="body__profile__icons">
       <a href="https://www.instagram.com/daniel.ba.photo/"><fa :icon="['fab', 'instagram']" /></a>
+      <a href="mailto:d.baptista@me.com"><fa width="56px" :icon="['fas', 'envelope-square']" /></a>
       <a href="https://api.whatsapp.com/send?phone=491604732199"><fa :icon="['fab', 'whatsapp']" /></a>
-      <a href="tel:491604732199"><fa width="56px" class="svg__icon" :icon="['fas', 'phone-volume']" /></a>
       </div>
 </template>
 

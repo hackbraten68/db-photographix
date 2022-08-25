@@ -5,7 +5,7 @@
                 <German />
                  </transition>
                 <Social />
-                <button class="cta-phone"><a href="mailto:d.baptista@me.com"><fa :icon="['fas', 'envelope']" /> Mail an Mich</a></button>
+                <button class="cta-phone"><a href="tel:+491604732199"><fa :icon="['fas', 'phone']" /> +49 160 4732 199</a></button>
                 <button class="body__profile__button github"><a href="https://www.gallery.danielba.de">Galerie besuchen</a></button>
         </div>
         
@@ -14,7 +14,7 @@
                 <English/>
                 </transition>
                 <Social />
-                <button class="cta-phone"><a href="mailto:d.baptista@me.com"><fa :icon="['fas', 'envelope']" /> Mail Me</a></button>
+                <button class="cta-phone"><a href="tel:+491604732199"><fa :icon="['fas', 'phone']" /> +49 160 4732 199</a></button>
                 <button class="body__profile__button github botao"><a href="https://www.gallery.danielba.de">Visit Gallery</a></button>
         </div>
         <div class="body__profile__translate">
@@ -120,6 +120,22 @@ export default {
     .body__profile__button a:hover {
       color: #999;
       transition: all 0.5s ease-in-out;
+    }
+
+    .cta-phone {
+      background: rgb(68, 68, 68);
+      border: #ff9933 solid 2px;
+      border-radius: 10px;
+      font-family: Orkney;
+      text-transform: uppercase;
+      padding: 1.5em 1em;
+      width: 100%;
+      color: white;
+      letter-spacing: 2px;
+      font-weight: bold;
+      margin-bottom: 1em;
+      cursor: pointer;
+      transition: all 0.5s;
     }
 
     .cta-phone {

@@ -138,24 +138,10 @@ export default {
       transition: all 0.5s;
     }
 
-    .cta-phone {
-      background: rgb(68, 68, 68);
-      border: #ff9933 solid 2px;
-      border-radius: 10px;
-      font-family: Orkney;
-      text-transform: uppercase;
-      padding: 1.5em 1em;
-      width: 100%;
-      color: white;
-      letter-spacing: 2px;
-      font-weight: bold;
-      margin-bottom: 1em;
-      cursor: pointer;
-      transition: all 0.5s;
-    }
-
     .cta-phone a {
       text-decoration: none;
+      font-size: 1rem;
+      letter-spacing: 2px;
       color: #ff9933;
       transition: all 0.5s ease-in-out;
     }

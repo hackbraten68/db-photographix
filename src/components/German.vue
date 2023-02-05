@@ -21,7 +21,8 @@ export default {
     name: "German",
     data: () => ({
 
-      bioDe: `Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam`
+      bioDe: `Hey, ich bin Daniel Baptista, 27 Jahre jung und darf das wunderschöne Heidelberg meine Heimat nennen. 
+      Formen, Farben und die Interaktion von Licht und Architektur begeistert mich an der Immobilienfotografie. Durch meine Bilder schaffe ich einen völlig neuen Blickwinkel auf Dein Objekt.`
 
     }),
     

@@ -21,7 +21,7 @@ export default {
     name: "English",
     data: () => ({
 
-      bioEn: `Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam`
+      bioEn: `Hello, I am Daniel Baptista, 27 years young and am lucky to call the beautiful city of Heidelberg my home. The shapes, colors, and interaction of light and architecture inspire me in real estate photography. Through my pictures, I create a completely new perspective on your property.`
 
     }),
     

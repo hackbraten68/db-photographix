@@ -6,7 +6,7 @@
                  </transition>
                 <Social />
                 <button class="cta-phone"><a href="tel:+491604732199"><fa :icon="['fas', 'phone']" /> +49 160 4732 199</a></button>
-                <button class="body__profile__button github"><a href="https://www.danielba.de">Galerie besuchen</a></button>
+                <button class="body__profile__button github"><a href="https://www.gallery.rootsource.de">Galerie besuchen</a></button>
         </div>
         
         <div v-else class="body__profile__button-area">

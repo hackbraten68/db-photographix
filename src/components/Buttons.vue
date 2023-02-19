@@ -15,7 +15,7 @@
                 </transition>
                 <Social />
                 <button class="cta-phone"><a href="tel:+491604732199"><fa :icon="['fas', 'phone']" /> +49 160 4732 199</a></button>
-                <button class="body__profile__button github botao"><a href="https://www.danielba.de">Visit Gallery</a></button>
+                <button class="body__profile__button github botao"><a href="https://www.gallery.rootsource.de">Visit Gallery</a></button>
         </div>
         <div class="body__profile__translate">
                 <button @click="translate" v-if="trans" v-on:click="fadeMe"><fa icon="flag" /> Translate</button>
